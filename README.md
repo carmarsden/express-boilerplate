@@ -20,6 +20,7 @@ Start the application `npm start`
 Start nodemon for the application `npm run dev`
 
 Run the tests `npm test` or `npm t`
+Run tests in watch mode `npm run test:watch`
 
 ## Deploying
 
